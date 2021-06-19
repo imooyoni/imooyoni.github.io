@@ -18,7 +18,8 @@ tagline:             "요니의 드림노트"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  예비 개발자 요니의 공부기록 페이지
+  비전공 개발자를 꿈꾸는
+  요니의 공부기록 페이지
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
