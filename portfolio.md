@@ -10,25 +10,23 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+Yeonnie Lim
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
+#<center>MAJOR : AI EENGINEERING</center>
 
-<center>Korean University</center>
+#<center>Korean University</center>
 
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>Seoul, Republic of Korea</center>
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 연락처: 
 
-> 연락처: khw11044@gmail.com
+> Github : <a href="https://yeonnie-de-lim.github.io/">https://yeonnie-de-lim.github.io/</a>
 
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
-
-
+/*
 ## Education
 ---
 > Mar.2015 ~ Feb.2021 한성대학교
@@ -119,7 +117,7 @@ Hansung Univ – ETRI
 【출원번호】: 10-2020-0080646
 
 【출원인】: 김현우, 김태현, 제진명
-
+*/
 
 
 
