@@ -2,7 +2,7 @@
 layout: list
 title: Project
 slug: project
-menu: true
+menu: false
 submenu: false
 order: 3
 description: >
