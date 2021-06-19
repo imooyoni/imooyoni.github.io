@@ -14,9 +14,9 @@ Yeonnie Lim
 </span>
 </center>
 
-# <center>MAJOR : AI EENGINEERING</center>
+<!-- # <center>MAJOR : AI EENGINEERING</center>
 
-# <center>Korean University</center>
+# <center>Korean University</center> -->
 
 <center>Seoul, Republic of Korea</center>
 
@@ -26,7 +26,7 @@ Yeonnie Lim
 
 > Github : <a href="https://yeonnie-de-lim.github.io/">https://yeonnie-de-lim.github.io/</a>
 
-"""
+<!-- """
 ## Education
 ---
 > Mar.2015 ~ Feb.2021 한성대학교
@@ -117,7 +117,7 @@ Hansung Univ – ETRI
 【출원번호】: 10-2020-0080646
 
 【출원인】: 김현우, 김태현, 제진명
-"""
+""" -->
 
 
 
